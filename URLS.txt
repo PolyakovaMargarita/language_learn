@@ -1,0 +1,16 @@
+# Ссылки для App Store Connect и Google Play
+
+Скопируйте после включения GitHub Pages:
+
+```
+Privacy Policy:
+https://polyakovamargarita.github.io/language_learn/privacy.html
+
+Support:
+https://polyakovamargarita.github.io/language_learn/support.html
+
+Home:
+https://polyakovamargarita.github.io/language_learn/
+```
+
+Email поддержки: margaritka251289@gmail.com
